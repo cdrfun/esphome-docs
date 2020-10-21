@@ -180,6 +180,8 @@ Configuration example:
         battery_level:
           name: "LYWSD03MMC Battery Level"
 
+Tanks to `@atc1441 <https://github.com/atc1441>`__ There is also an option to `flash custom firmware via bluetooth <https://github.com/atc1441/ATC_MiThermometer>`__ and remove the need for a bindkey. After flashing only a `fake bindkey is required <https://github.com/esphome/feature-requests/issues/552#issuecomment-688049747>`__.
+
 CGD1
 ****
 
@@ -362,6 +364,7 @@ See Also
 - Xiaomi Home Assistant mitemp_bt custom component `<https://github.com/custom-components/sensor.mitemp_bt>`__
   by `@Magalex2x14 <https://github.com/Magalex2x14>`__
 - Xiaomi LYWSD03MMC passive sensor readout `<https://github.com/ahpohl/xiaomi_lywsd03mmc>`__ by `@ahpohl <https://github.com/ahpohl>`__
+- Custom firmware via bluetooth for LYWSD03MMC `<https://github.com/atc1441/ATC_MiThermometer>`__ by `@atc1441 <https://github.com/atc1441>`__
 - Mi-standardauth `<https://github.com/danielkucera/mi-standardauth>`__
 
 - :ghedit:`Edit`
